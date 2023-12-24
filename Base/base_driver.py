@@ -32,6 +32,6 @@ class BaseDriver:
         element=wait.until(EC.element_to_be_clickable((locator_type,locator)))
         return element
 
-
+#SAMPLE FROM SDET1
 
 
